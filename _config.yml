@@ -7,6 +7,7 @@ plugins:
   - jemoji
 
 permalink: /:year/:month/:day/:title/
+repository: AnErnst/personal-website
 
 defaults:
   -
@@ -26,7 +27,7 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+    # - AnErnst.github.io
 
 # social_media:
   # behance: your_username
