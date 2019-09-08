@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -7,7 +7,7 @@ plugins:
   - jemoji
 
 permalink: /:year/:month/:day/:title/
-repository: AnErnst/personal-website
+repository: AnErnst/AnErnst
 
 defaults:
   -
@@ -27,8 +27,7 @@ projects:
     archived: false
     forks: true
     projects:
-    # - AnErnst.github.io
-
+   
 # social_media:
   # behance: your_username
   # dribbble: your_username
