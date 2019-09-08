@@ -52,7 +52,21 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Web design
+    web_url: https://en.wikipedia.org/wiki/Web_design
+    image_url: https://raw.githubusercontent.com/AnErnst/AnErnstNoLonger/master/images/WebDesignImg.png
 
   - name: Sass
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+  - name: Cryptography
+    web_url: https://www.iacr.org/events/
+    image_url: https://raw.githubusercontent.com/AnErnst/AnErnstNoLonger/master/images/CryptoTorus.png
+
+  - name: Algebraic Geometry
+    web_url: http://www.mathaware.org/cgi-bin/mstrack/accepted_papers/jag
+    image_url: https://raw.githubusercontent.com/AnErnst/AnErnstNoLonger/master/images/CalabiYau5.jpg
+
+  - name: Representation Theory
+    web_url: https://www.ams.org/publications/journals/journalsframework/ert
+    image_url: https://raw.githubusercontent.com/AnErnst/AnErnstNoLonger/master/images/DModules.jpg
